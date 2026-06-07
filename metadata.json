@@ -1,0 +1,6 @@
+{
+  "name": "Nexa AI Terminal",
+  "description": "Premium AI-powered crypto wallet and institutional-grade trading platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
